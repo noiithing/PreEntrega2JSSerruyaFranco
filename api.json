@@ -1,0 +1,29 @@
+[
+  {
+    "Modelo" : "Fiat Duna",
+    "Año" : 2001,
+    "Precio" :2.000.000,
+    "Kilometros": 150.000
+    
+  },
+  {
+    "Modelo" : "Ford Focus",
+    "Año" : 2015,
+    "Precio" :10.000.000,
+    "Kilometros": 110.000
+  },
+  {
+    "Modelo" : "Peugeot 207",
+    "Año" : 2011,
+    "Precio" :6.000.000,
+    "Kilometros": 50.000
+  {
+    "Modelo" : "Honda Titan",
+    "Año" : 2017,
+    "Precio" :1.000.000,
+    "Kilometros": 30.000
+  },
+
+
+
+]
